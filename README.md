@@ -12,3 +12,11 @@ The goal is to practice programming logic, loop structures, and flow control, ma
 
 The program generates a random number within a defined range, and the player must guess what it is.
 With each guess, the game informs whether the secret number is greater or less than the guess.
+
+---
+# Team
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/222240928?v=4" width="115"><br><sub>Thiago Fabri</sub>](https://github.com/TllFabri) |
+| :---: |
+
+
